@@ -1,0 +1,711 @@
+Atlantic County
+
+   Muncipality                 Treasury  
+                                  Code         
+
+  ABSECON CITY                    0101    
+  ATLANTIC CITY                   0102     
+  BRIGANTINE CITY                 0103     
+  BUENA BORO                      0104    
+  BUENA VISTA TWP.                0105     
+  CORBIN CITY                     0106                                    
+  EGG HARBOR CITY                 0107                                 
+  EGG HARBOR TWP.                 0108                                    
+  ESTELL MANOR CITY               0109                                       
+  FOLSOM BORO                     0110                                
+  GALLOWAY TWP.                   0111                                    
+  HAMILTON TWP.                   0112                              
+  HAMMONTON TOWN                  0113     
+  LINWOOD CITY                    0114   
+  Longport Boro                   0115   
+  MARGATE CITY                    0116    
+  MULLICA TWP.                    0117    
+  NORTHFIELD CITY                 0118    
+  PLEASANTVILLE CITY              0119     
+  PORT REPUBLIC CITY              0120     
+  SOMERS POINT CITY               0121    
+  Ventnor City                    0122
+  WEYMOUTH TWP.                   0123    
+
+
+Bergen County
+
+     Muncipality                Treasury  
+                                  Code     
+
+  ALLENDALE BORO                  0201     
+  ALPINE BORO                     0202    
+  BERGENFIELD BORO                0203    
+  BOGOTA BORO                     0204    
+  CARLSTADT BORO                  0205     
+  CLIFFSIDE PARK BORO             0206     
+  CLOSTER BORO                    0207     
+  CRESSKILL BORO                  0208   
+  DEMAREST BORO                   0209    
+  DUMONT BORO                     0210     
+  ELMWOOD PARK BORO               0211    
+  EAST RUTHERFORD BORO            0212    
+  EDGEWATER BORO                  0213   
+  EMERSON BORO                    0214     
+  ENGLEWOOD CITY                  0215     
+  ENGLEWOOD CLIFFS BORO           0216     
+  FAIR LAWN BORO                  0217     
+  FAIRVIEW BORO                   0218     
+  FORT LEE BORO                   0219     
+  FRANKLIN LAKES BORO             0220    
+  GARFIELD CITY                   0221     
+  GLEN ROCK BORO                  0222    
+  HACKENSACK CITY                 0223     
+  HARRINGTON PARK BORO            0224     
+  HASBROUCK HEIGHTS BORO          0225     
+  HAWORTH BORO                    0226    
+  HILLSDALE BORO                  0227     
+  HOHOKUS BORO                    0228     
+  LEONIA BORO                     0229     
+  LITTLE FERRY BORO               0230    
+  LODI BORO                       0231     
+  LYNDHURST TWP.                  0232     
+  MAHWAH TWP.                     0233     
+  MAYWOOD BORO                    0234     
+  MIDLAND PARK BORO               0235     
+  MONTVALE BORO                   0236     
+  MOONACHIE BORO                  0237     
+  NEW MILFORD BORO                0238     
+  NORTH ARLINGTON BORO            0239     
+  NORTHVALE BORO                  0240     
+  NORWOOD BORO                    0241     
+  OAKLAND BORO                    0242     
+  OLD TAPPAN BORO                 0243     
+  ORADELL BORO                    0244     
+  PALISADES PARK BORO             0245    
+  PARAMUS BORO                    0246    
+  PARK RIDGE BORO                 0247    
+  RAMSEY BORO                     0248     
+  RIDGEFIELD BORO                 0249     
+  RIDGEFIELD PARK VILLAGE         0250    
+  RIDGEWOOD VILLAGE               0251     
+  RIVER EDGE BORO                 0252     
+  RIVER VALE TWP.                 0253     
+  ROCHELLE PARK TWP.              0254    
+  ROCKLEIGH BORO                  0255     
+  RUTHERFORD BORO                 0256     
+  SADDLE BROOK TWP.               0257    
+  SADDLE RIVER BORO               0258     
+  SOUTH HACKENSACK TWP.           0259     
+  TEANECK TWP.                    0260     
+  TENAFLY BORO                    0261     
+  TETERBORO BORO                  0262     
+  UPPER SADDLE RIVER BORO         0263     
+  WALDWICK BORO                   0264     
+  WALLINGTON BORO                 0265     
+  WASHINGTON TWP.                 0266     
+  WESTWOOD BORO                   0267     
+  WOODCLIFF LAKE BORO             0268     
+  WOOD-RIDGE BORO                 0269    
+  WYCKOFF TWP.                    0270     
+
+
+Burlington County
+
+                                Treasury   
+                                  Code    
+
+  BASS RIVER TWP.                 0301     
+  BEVERLY CITY                    0302     
+  BORDENTOWN CITY                 0303     
+  BORDENTOWN TWP.                 0304    
+  BURLINGTON CITY                 0305     
+  BURLINGTON TWP.                 0306     
+  CHESTERFIELD TWP.               0307    
+  CINNAMINSON TWP.                0308     
+  DELANCO TWP.                    0309   
+  DELRAN TWP.                     0310     
+  EASTAMPTON TWP.                 0311     
+  EDGEWATER PARK TWP.             0312     
+  EVESHAM TWP.                    0313    
+  FIELDSBORO BORO                 0314     
+  FLORENCE TWP.                   0315     
+  HAINESPORT TWP                  0316     
+  LUMBERTON TWP.                  0317     
+  MANSFIELD TWP.                  0318     
+  MAPLE SHADE TWP.                0319     
+  MEDFORD TWP.                    0320    
+  MEDFORD LAKES BORO              0321     
+  MOORESTOWN TWP.                 0322    
+  MOUNT HOLLY TWP.                0323    
+  MOUNT LAUREL TWP.               0324     
+  NEW HANOVER TWP.                0325     
+  NORTH HANOVER TWP.              0326                               
+  PALMYRA BORO                    0327                                  
+  PEMBERTON BORO                  0328                                 
+  PEMBERTON TWP.                  0329                              
+  RIVERSIDE TWP.                  0330                               
+  RIVERTON BORO                   0331                              
+  SHAMONG TWP.                    0332                                    
+  SOUTHAMPTON TWP.                0333                                   
+  SPRINGFIELD TWP.                0334                                   
+  TABERNACLE TWP.                 0335                                 
+  WASHINGTON TWP.                 0336                                   
+  WESTAMPTON TWP.                 0337                                
+  WILLINGBORO TWP.                0338                                 
+  WOODLAND TWP.                   0339                                     
+  WRIGHTSTOWN BORO                0340                                  
+
+
+Camden County
+
+    Muncipality                 Treasury                                 
+                                  Code                                     
+
+  AUDUBON BORO                    0401                                    
+  AUDUBON PARK BORO               0402                                  
+  BARRINGTON BORO                 0403                                     
+  BELLMAWR BORO                   0404                                         
+  BERLIN BORO                     0405                                 
+  BERLIN TWP.                     0406                                   
+  BROOKLAWN BORO                  0407                                     
+  CAMDEN CITY                     0408                                    
+  CHERRY HILL TWP.                0409                                  
+  CHESILHURST BORO                0410                                     
+  CLEMENTON BORO                  0411                                    
+  COLLINGSWOOD BORO               0412                                    
+  GIBBSBORO BORO                  0413                                 
+  GLOUCESTER CITY                 0414                                 
+  GLOUCESTER TWP.                 0415                                  
+  HADDON TWP.                     0416                                  
+  HADDONFIELD BORO                0417                                
+  HADDON HEIGHTS BORO             0418                                       
+  HI-NELLA BORO                   0419                                             
+  LAUREL SPRINGS BORO             0420    
+  LAWNSIDE BORO                   0421    
+  LINDENWOLD BORO                 0422    
+  MAGNOLIA BORO                   0423    
+  MERCHANTVILLE BORO              0424     
+  MOUNT EPHRAIM BORO              0425     
+  OAKLYN BORO                     0426    
+  PENNSAUKEN TWP.                 0427     
+  PINE HILL BORO                  0428     
+  PINE VALLEY BORO                0429    
+  RUNNEMEDE BORO                  0430    
+  SOMERDALE BORO                  0431     
+  STRATFORD BORO                  0432     
+  TAVISTOCK BORO                  0433 
+  VOORHEES  TWP.                  0434    
+  WATERFORD TWP.                  0435     
+  WINSLOW   TWP.                  0436     
+  WOODLYNNE BORO                  0437 
+
+ 
+
+Cape May County
+
+
+    Muncipality                 Treasury                                 
+                                  Code                                     
+
+
+                                  Code     
+  AVALON BORO                     0501     
+  CAPE MAY CITY                   0502    
+  CAPE MAY POINT BORO             0503    
+  DENNIS TWP.                     0504     
+  LOWER TWP.                      0505     
+  MIDDLE TWP.                     0506     
+  OCEAN CITY                      0508     
+  SEA ISLE CITY                   0509    
+  STONE HARBOR BORO               0510    
+  UPPER TWP.                      0511     
+  WEST CAPE MAY BORO              0512     
+  WEST WILDWOOD BORO              0513     
+  WILDWOOD CITY                   0514     
+  WILDWOOD CREST BORO             0515     
+  WOODBINE BORO                   0516     
+
+
+Cumberland County
+
+     Muncipality                Treasury   
+                                  Code     
+
+  BRIDGETON CITY                  0601     
+  COMMERCIAL TWP.                 0602    
+  DEERFIELD TWP.                  0603    
+  DOWNE TWP.                      0604    
+  FAIRFIELD TWP.                  0605     
+  GREENWICH TWP.                  0606     
+  HOPEWELL TWP.                   0607    
+  LAWRENCE TWP.                   0608     
+  MAURICE RIVER TWP.              0609     
+  MILLVILLE CITY                  0610    
+  SHILOH BORO                     0611     
+  STOW CREEK TWP.                 0612     
+  UPPER DEERFIELD TWP.            0613     
+  VINELAND CITY                   0614     
+
+
+Essex County
+
+   Muncipality                  Treasury   
+                                  Code     
+
+  BELLEVILLE TWP.                 0701     
+  BLOOMFIELD TWP.                 0702     
+  CALDWELL BORO TWP.              0703    
+  CEDAR GROVE TWP.                0704     
+  EAST ORANGE CITY                0705     
+  ESSEX FELLS TWP.                0706     
+  FAIRFIELD TWP.                  0707     
+  GLEN RIDGE BORO TWP.            0708     
+  IRVINGTON TWP.                  0709     
+  LIVINGSTON TWP.                 0710     
+  MAPLEWOOD TWP.                  0711     
+  MILLBURN TWP.                   0712     
+  MONTCLAIR TWP.                  0713     
+  NEWARK CITY                     0714     
+  NORTH CALDWELL BORO             0715    
+  NUTLEY TWP.                     0716    
+  CITY OF ORANGE TWP.             0717     
+  ROSELAND BORO                   0718    
+  SOUTH ORANGE VILLAGE TWP.       0719     
+  VERONA TWP.                     0720     
+  WEST CALDWELL TWP.              0721     
+  WEST ORANGE TWP.                0722    
+
+
+Gloucester County
+
+                                Treasury   
+                                  Code     
+
+  CLAYTON BORO                    0801     
+  DEPTFORD TWP.                   0802     
+  EAST GREENWICH TWP.             0803    
+  ELK TWP.                        0804    
+  FRANKLIN TWP.                   0805    
+  GLASSBORO BORO                  0806     
+  GREENWICH TWP.                  0807     
+  HARRISON TWP.                   0808     
+  LOGAN TWP.                      0809     
+  MANTUA TWP.                     0810     
+  MONROE TWP.                     0811     
+  NATIONAL PARK BORO              0812     
+  NEWFIELD BORO                   0813    
+  PAULSBORO BORO                  0814    
+  PITMAN BORO                     0815     
+  SOUTH HARRISON TWP.             0816     
+  SWEDESBORO BORO                 0817     
+  WASHINGTON TWP.                 0818     
+  WENONAH BORO                    0819     
+  WEST DEPTFORD TWP.              0820     
+  WESTVILLE BORO                  0821     
+  WOODBURY CITY                   0822     
+  WOODBURY HEIGHTS BORO           0823     
+  WOOLWICH TWP.                   0824     
+
+
+Hudson County
+
+     Muncipality                Treasury   
+                                  Code     
+  BAYONNE CITY                    0901     
+  EAST NEWARK BORO                0902     
+  GUTTENBERG TOWN                 0903    
+  HARRISON TOWN                   0904     
+  HOBOKEN CITY                    0905     
+  JERSEY CITY                     0906    
+  KEARNY TOWN                     0907     
+  NORTH BERGEN TWP.               0908     
+  SECAUCUS TOWN                   0909     
+  UNION CITY                      0910     
+  WEEHAWKEN TWP.                  0911     
+  WEST NEW YORK TOWN              0912     
+
+
+Hunterdon County
+
+    Muncipality                 Treasury  
+                                  Code 
+  ALEXANDRIA TWP.                 1001     
+  BETHLEHEM TWP.                  1002     
+  BLOOMSBURY BORO                 1003    
+  CALIFON BORO                    1004     
+   CLINTON TOWN                   1005     
+  CLINTON TWP.                    1006    
+  DELAWARE TWP.                   1007    
+  EAST AMWELL TWP.                1008     
+  FLEMINGTON BORO                 1009     
+  FRANKLIN TWP.                   1010    
+  FRENCHTOWN BORO                 1011     
+  GLEN GARDNER BORO               1012    
+  HAMPTON BORO                    1013     
+  HIGH BRIDGE BORO                1014     
+  HOLLAND TWP.                    1015     
+  KINGWOOD TWP.                   1016     
+  LAMBERTVILLE CITY               1017     
+  LEBANON BORO                    1018     
+  LEBANON TWP.                    1019     
+  MILFORD BORO                    1020     
+  RARITAN TWP.                    1021     
+  READINGTON TWP.                 1022     
+  STOCKTON BORO                   1023    
+  TEWKSBURY TWP.                  1024     
+  UNION TWP.                      1025    
+  WEST AMWELL TWP.                1026     
+
+
+
+Mercer County
+
+     Muncipality                Treasury   
+                                  Code     
+
+  EAST WINDSOR TWP.               1101     
+  EWING TWP.                      1102     
+  HAMILTON TWP.                   1103    
+  HIGHTSTOWN BORO                 1104    
+  HOPEWELL BORO                   1105     
+  HOPEWELL TWP.                   1106     
+  LAWRENCE TWP.                   1107     
+  PENNINGTON BORO                 1108  
+  PRINCETON BORO                  1109  
+  PRINCETON TWP.                  1110   
+  TRENTON CITY                    1111    
+  WASHINGTON TWP.                 1112     
+  WEST WINDSOR TWP.               1113     
+
+Middlesex County
+
+                                Treasury   
+                                  Code    
+
+  CARTERET BORO                   1201     
+  CRANBURY TWP.                   1202   
+  DUNELLEN BORO                   1203    
+  EAST BRUNSWICK TWP.             1204    
+  EDISON TWP.                     1205     
+  HELMETTA BORO                   1206    
+  HIGHLAND PARK BORO              1207     
+  JAMESBURG BORO                  1208    
+  OLD BRIDGE TWP.                 1209    
+  METUCHEN BORO                   1210    
+  MIDDLESEX BORO                  1211    
+  MILLTOWN BORO                   1212     
+  MONROE TWP.                     1213    
+  NEW BRUNSWICK CITY              1214     
+  NORTH BRUNSWICK TWP.            1215  
+  PERTH AMBOY CITY                1216    
+  PISCATAWAY TWP.                 1217    
+  PLAINSBORO TWP.                 1218   
+  SAYREVILLE BORO                 1219     
+  SOUTH AMBOY CITY                1220    
+  SOUTH BRUNSWICK TWP.            1221     
+  SOUTH PLAINFIELD BORO           1222     
+  SOUTH RIVER BORO                1223     
+  SPOTSWOOD BORO                  1224     
+  WOODBRIDGE TWP.                 1225    
+
+
+Monmouth County
+
+     Muncipality                Treasury  
+  					    Code
+	
+  ALLENHURST BORO                 1301     
+  ALLENTOWN BORO                  1302     
+  ASBURY PARK CITY                1303     
+  ATLANTIC HIGHLANDS BORO         1304     
+  AVON-BY-THE-SEA BORO            1305     
+  BELMAR BORO                     1306     
+  BRADLEY BEACH BORO              1307     
+  BRIELLE BORO                    1308     
+  COLTS NECK TWP.                 1309    
+  DEAL BORO                       1310     
+  EATONTOWN BORO                  1311     
+  ENGLISHTOWN BORO                1312     
+  FAIR HAVEN BORO                 1313     
+  FARMINGDALE BORO                1314     
+  FREEHOLD BORO                   1315     
+  FREEHOLD TWP.                   1316     
+  HIGHLANDS BORO                  1317     
+  HOLMDEL TWP.                    1318     
+  HOWELL TWP.                     1319     
+  INTERLAKEN BORO                 1320     
+  KEANSBURG BORO                  1321  
+  KEYPORT BORO                    1322     
+  LITTLE SILVER BORO              1323     
+  LOCH ARBOUR VILLAGE             1324     
+  LONG BRANCH CITY                1325    
+  MANALAPAN TWP.                  1326     
+  MANASQUAN BORO                  1327    
+  MARLBORO TWP.                   1328    
+  MATAWAN BORO                    1329    
+  ABERDEEN TWP.                   1330     
+  MIDDLETOWN TWP.                 1331     
+  MILLSTONE TWP.                  1332    
+  MONMOUTH BEACH BORO             1333     
+  NEPTUNE TWP.                    1334     
+  NEPTUNE CITY BORO               1335    
+  TINTON FALLS BORO               1336    
+  OCEAN TWP.                      1337    
+  OCEANPORT BORO                  1338     
+  HAZLET TWP.                     1339     
+  RED BANK BORO                   1340     
+  ROOSEVELT BORO                  1341     
+  RUMSON BORO                     1342    
+  SEA BRIGHT BORO                 1343     
+  SEA GIRT BORO                   1344     
+  SHREWSBURY BORO                 1345     
+  SHREWSBURY TWP.                 1346    
+  SOUTH BELMAR BORO               1347     
+  SPRING LAKE BORO                1348     
+  SPRING LAKE HEIGHTS BORO        1349     
+  UNION BEACH BORO                1350     
+  UPPER FREEHOLD TWP.             1351     
+  WALL TWP.                       1352     
+  WEST LONG BRANCH BORO           1353     
+
+
+Morris County
+
+   Muncipality                  Treasury   
+                                  Code    
+
+  BOONTON TOWN                    1401     
+  BOONTON TWP.                    1402     
+  BUTLER BORO                     1403     
+  CHATHAM BORO                    1404    
+  CHATHAM TWP.                    1405     
+  CHESTER BORO                    1406    
+  CHESTER TWP.                    1407     
+  DENVILLE TWP.                   1408    
+  DOVER TOWN                      1409     
+  EAST HANOVER TWP.               1410     
+  FLORHAM PARK BORO               1411     
+  HANOVER TWP.                    1412     
+  HARDING TWP.                    1413      
+  KINNELON BORO                   1415   
+  LINCOLN PARK BORO               1416    
+  MADISON BORO                    1417     
+  MENDHAM BORO                    1418    
+  MENDHAM TWP.                    1419     
+  MINE HILL TWP.                  1420     
+  MONTVILLE TWP.                  1421    
+  MORRIS TWP.                     1422    
+  MORRIS PLAINS BORO              1423    
+  MORRISTOWN TOWN                 1424     
+  MOUNTAIN LAKES BORO             1425    
+  MOUNT ARLINGTON BORO            1426     
+  MOUNT OLIVE TWP.                1427     
+  NETCONG BORO                    1428     
+  PARSIPPANY-TROY HILLS TWP.      1429     
+  LONG HILL TWP.                  1430     
+  PEQUANNOCK TWP.                 1431     
+  RANDOLPH TWP.                   1432    
+  RIVERDALE BORO                  1433     
+  ROCKAWAY BORO                   1434    
+  ROCKAWAY TWP.                   1435    
+  ROXBURY TWP.                    1436    
+  VICTORY GARDENS BORO            1437    
+  WASHINGTON TWP.                 1438     
+  WHARTON BORO                    1439    
+
+
+Ocean County
+
+   Muncipality                  Treasury   
+                                  Code
+
+  BARNEGAT LIGHT BORO             1501     
+  BAY HEAD BORO                   1502     
+  BEACH HAVEN BORO                1503     
+  BEACHWOOD BORO                  1504     
+  BERKELEY TWP.                   1505     
+  BRICK TWP.                      1506     
+  DOVER TWP.                      1507     
+  EAGLESWOOD TWP.                 1508     
+  HARVEY CEDARS BORO              1509     
+  ISLAND HEIGHTS BORO             1510     
+  JACKSON TWP.                    1511   
+  LACEY TWP.                      1512 
+  LAKEHURST BORO                  1513 
+  LAKEWOOD TWP.                   1514 
+  LAVALLETTE BORO                 1515   
+  LITTLE EGG HARBOR TWP.          1516    
+  LONG BEACH TWP.                 1517    
+  MANCHESTER TWP.                 1518    
+  MANTALOKING BORO                1519    
+  OCEAN TWP.                      1520     
+  OCEAN GATE BORO                 1521     
+  PINE BEACH BORO                 1522     
+  PLUMSTED TWP.                   1523     
+  POINT PLEASANT BORO             1524     
+  POINT PLEASANT BEACH BORO       1525     
+  SEASIDE HEIGHTS BORO            1526     
+  SEASIDE PARK BORO               1527   
+  SHIP BOTTOM BORO                1528     
+  SOUTH TOMS RIVER BORO           1529     
+  STAFFORD TWP.                   1530     
+  SURF CITY BORO                  1531    
+  TUCKERTON BORO                  1532    
+  BARNEGAT TWP.                   1533    
+
+
+Passaic County
+
+    Muncipality                 Treasury  
+                                  Code     
+
+  BLOOMINGDALE BORO               1601    
+  CLIFTON CITY                    1602     
+  HALEDON BORO                    1603     
+  HAWTHORNE BORO                  1604     
+  LITTLE FALLS TWP.               1605     
+  NORTH HALEDON BORO              1606     
+  PASSAIC CITY                    1607     
+  PATERSON CITY                   1608    
+  POMPTON LAKES BORO              1609    
+  PROSPECT PARK BORO              1610    
+  RINGWOOD BORO                   1611    
+  TOTOWA BORO                     1612    
+  WANAQUE BORO                    1613    
+  WAYNE TWP.                      1614     
+  WEST MILFORD TWP.               1615    
+  WEST PATERSON BORO              1616     
+
+
+Salem County
+
+    Muncipality                 Treasury   
+                                  Code     
+
+  ALLOWAY TWP.                    1701    
+  ELMER BORO                      1702     
+  ELSINBORO TWP.                  1703     
+  LOWER ALLOWAYS CREEK TWP.       1704     
+  MANNINGTON TWP.                 1705    
+  OLDMANS TWP.                    1706     
+  PENNS GROVE BORO                1707     
+  PENNSVILLE TWP.                 1708     
+  PILESGROVE TWP.                 1709     
+  PITTSGROVE TWP.                 1710     
+  QUINTON TWP.                    1711    
+  SALEM CITY                      1712     
+  CARNEYS POINT TWP.              1713     
+  UPPER PITTSGROVE TWP.           1714     
+  WOODSTOWN BORO                  1715     
+
+
+Somerset County
+
+    Muncipality                 Treasury   
+                                  Code     
+
+  BEDMINSTER TWP.                 1801     
+  BERNARDS TWP.                   1802     
+  BERNARDSVILLE BORO              1803     
+  BOUND BROOK BORO                1804     
+  BRANCHBURG TWP.                 1805   
+  BRIDGEWATER TWP.                1806    
+  FAR HILLS BORO                  1807    
+  FRANKLIN TWP.                   1808    
+  GREEN BROOK TWP.                1809  
+  HILLSBOROUGH TWP.               1810     
+  MANVILLE BORO                   1811     
+  MILLSTONE BORO                  1812     
+  MONTGOMERY TWP.                 1813   
+  NORTH PLAINFIELD BORO           1814   
+  PEAPACK GLADSTONE BORO          1815   
+  RARITAN BORO                    1816   
+  ROCKY HILL BORO                 1817   
+  SOMERVILLE BORO                 1818   
+  SOUTH BOUND BROOK BORO          1819    
+  WARREN TWP.                     1820    
+  WATCHUNG BORO                   1821     
+
+
+Sussex County
+
+   Muncipality                  Treasury   
+                                  Code    
+
+  ANDOVER BORO                    1901    
+  ANDOVER TWP.                    1902     
+  BRANCHVILLE BORO                1903     
+  BYRAM TWP.                      1904     
+  FRANKFORD TWP.                  1905     
+  FRANKLIN BORO                   1906     
+  FREDON TWP.                     1907     
+  GREEN TWP.                      1908    
+  HAMBURG BORO                    1909     
+  HAMPTON TWP.                    1910     
+  HARDYSTON TWP.                  1911     
+  HOPATCONG BORO                  1912     
+  LAFAYETTE TWP.                  1913     
+  MONTAGUE TWP.                   1914     
+  NEWTON TOWN                     1915     
+  OGDENSBURG BORO                 1916     
+  SANDYSTON TWP.                  1917     
+  SPARTA TWP.                     1918     
+  STANHOPE BORO                   1919     
+  STILLWATER TWP.                 1920     
+  SUSSEX BORO                     1921     
+  VERNON TWP.                     1922     
+  WALPACK TWP.                    1923     
+  WANTAGE TWP.                    1924     
+
+
+Union County
+
+   Muncipality                  Treasury   
+                                  Code    
+
+  BERKELEY HEIGHTS TWP.           2001     
+  CLARK TWP.                      2002     
+  CRANFORD TWP.                   2003     
+  ELIZABETH CITY                  2004     
+  FANWOOD BORO                    2005    
+  GARWOOD BORO                    2006     
+  HILLSIDE TWP.                   2007     
+  KENILWORTH BORO                 2008     
+  LINDEN CITY                     2009     
+  MOUNTAINSIDE BORO               2010    
+  NEW PROVIDENCE BORO             2011     
+  PLAINFIELD CITY                 2012     
+  RAHWAY CITY                     2013     
+  ROSELLE BORO                    2014     
+  ROSELLE PARK BORO               2015     
+  SCOTCH PLAINS TWP.              2016   
+  SPRINGFIELD TWP.                2017    
+  SUMMIT CITY                     2018     
+  UNION TWP.                      2019    
+  WESTFIELD TWP.                  2020     
+  WINFIELD TWP.                   2021     
+
+
+Warren County
+
+   Muncipality                  Treasury   
+                                  Code    
+
+  ALLAMUCHY TWP.                  2101     
+  ALPHA BORO                      2102     
+  BELVIDERE TWP.                  2103    
+  BLAIRSTOWN TWP.                 2104    
+  FRANKLIN TWP.                   2105    
+  FRELINGHUYSEN TWP.              2106     
+  GREENWICH TWP.                  2107     
+  HACKETTSTOWN TOWN               2108    
+  HARDWICK TWP.                   2109    
+  HARMONY TWP.                    2110     
+  HOPE TWP.                       2111     
+  INDEPENDENCE TWP.               2112    
+  KNOWLTON TWP.                   2113     
+  LIBERTY TWP.                    2114     
+  LOPATCONG TWP.                  2115     
+  MANSFIELD TWP.                  2116     
+  OXFORD TWP.                     2117    
+  PHILLIPSBURG TOWN               2119     
+  POHATCONG TWP.                  2120    
+  WASHINGTON BORO                 2121    
+  WASHINGTON TWP.                 2122     
+  WHITE TWP.                      2123
